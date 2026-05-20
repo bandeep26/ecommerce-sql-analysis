@@ -15,6 +15,7 @@ The goal of this project is to practise translating real business questions into
 - **Microsoft SQL Server** — Database engine used to create tables, load data, and run queries
 - **SQL Server Management Studio (SSMS)** — IDE used to write and execute all SQL queries
 - **Microsoft Excel / Google Sheets** — Used to prepare the CSV data files before importing
+- **Git & Git Bash** — Used to version-control the project and push files to GitHub
 - **GitHub** — Used to publish and share the project
 
 ---
