@@ -90,31 +90,24 @@ Data was loaded into SQL Server using the `BULK INSERT` command.
 ## Tasks and Findings
 
 **Task 1 — Total Customer Count**
-
 ShopEasy currently has **15 registered customers** on the platform. This serves as a baseline sanity check before deeper analysis.
 
 **Task 2 — Unique Product Categories**
-
 The platform sells across **3 categories** — Clothing, Electronics, and Home & Kitchen.
 
 **Task 3 — Mumbai Orders**
-
 **9 orders** were placed from Mumbai. Key buyers include Priya Sharma, Karan Mehta, Meera Pillai, and Sanjay Patel. Products ordered ranged from high-value Electronics like iPhone 14 and Samsung TV to everyday items like Cotton Kurta and Air Fryer — indicating a diverse buying pattern from this city.
 
 **Task 4 — Orders Per City**
-
 Mumbai leads with 9 orders, followed by Delhi (7), Bangalore and Chennai (4 each), Pune (3), Hyderabad (2), and Kolkata (1). Mumbai and Delhi together account for more than half of all orders.
 
 **Task 5 — Revenue by Product**
-
 iPhone 14 is the top revenue generator at ₹3,16,000 — nearly double the second best, Samsung TV at ₹1,65,000. The top 3 products are all Electronics, dominating overall platform revenue.
 
 **Task 6 — Top 5 Customers by Spend**
-
 Priya Sharma leads with ₹1,11,600 in total spend, followed by Vikram Nair (₹86,500), Arjun Singh (₹84,000), Sneha Iyer (₹82,500), and Rahul Verma (₹68,800). These 5 customers are the platform's highest value segment.
 
 **Task 7 — Order Status Breakdown**
-
 21 out of 30 orders were Delivered (70%), 5 were Cancelled (16.7%), and 4 are Pending (13.3%). The cancellation rate is moderate but worth monitoring.
 
 ---
