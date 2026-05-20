@@ -96,8 +96,7 @@ ShopEasy currently has **15 registered customers** on the platform. This serves 
 The platform sells across **3 categories** — Clothing, Electronics, and Home & Kitchen.
 
 **Task 3 — Mumbai Orders**
-**9 orders** were placed from Mumbai. Key buyers include Priya Sharma, Karan Mehta, Meera Pillai, and Sanjay Patel. Products range from high-value Electronics like iPhone 14 and Samsung TV to everyday items like Cotton Kurta and Air Fryer — showing a diverse buying pattern.
-
+**9 orders** were placed from Mumbai. Key buyers include Priya Sharma, Karan Mehta, Meera Pillai, and Sanjay Patel. Products ordered ranged from high-value Electronics like iPhone 14 and Samsung TV to everyday items like Cotton Kurta and Air Fryer — indicating a diverse buying pattern from this city.
 **Task 4 — Orders Per City**
 Mumbai leads with 9 orders, followed by Delhi (7), Bangalore and Chennai (4 each), Pune (3), Hyderabad (2), and Kolkata (1). Mumbai and Delhi together account for more than half of all orders.
 
